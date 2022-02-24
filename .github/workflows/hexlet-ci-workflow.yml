@@ -1,0 +1,10 @@
+name: hexlet-ci
+on: push
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps: # список шагов, которые надо выполнить
+      - run: make setup
+      - run: make test
+      - run: lint
+
