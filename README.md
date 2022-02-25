@@ -1,3 +1,5 @@
+[![hexlet-ci](https://github.com/sergeiwerty/hexlet-ci-app/actions/workflows/hexlet-ci-workflow.yml/badge.svg)](https://github.com/sergeiwerty/hexlet-ci-app/actions/workflows/hexlet-ci-workflow.yml/badge.svg)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
@@ -28,8 +30,6 @@ make lint
 ```
 
 ---
-
-[hexlet-ci](https://github.com/sergeiwerty/hexlet-ci-app/actions/workflows/hexlet-ci-workflow.yml/badge.svg)
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
