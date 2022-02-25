@@ -29,7 +29,7 @@ make lint
 
 ---
 
-[example workflow](https://github.com/sergeiwerty/hexlet-my-first-workflow/actions/workflows/hexlet-ci-workflow.yml/badge.svg)
+[example workflow](https://github.com/sergeiwerty/hexlet-ci-app/actions/workflows/hexlet-ci-workflow/badge.svg)
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://ru.hexlet.io/pages/about?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
